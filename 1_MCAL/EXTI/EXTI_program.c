@@ -1,20 +1,20 @@
-
+/*
  ****************************************************
  *   AUTHOR      : Abdullah Ahmed                   *
  *   Description : EXTI_program.c                   *
  *   DATE        : 20 DEC 2023                      *
  *   VERSION     : V01                              *
  ****************************************************
-
+*/
 
 /****************************************************/
-/* Library Directives                                */
+/* Library Directives                               */
 /****************************************************/
 #include "STD_TYPES.h"
 #include "BIT_MATH.h"
 
 /****************************************************/
-/* EXTI Directives                                   */
+/* EXTI Directives                                  */
 /****************************************************/
 #include "EXTI_interface.h"
 #include "EXTI_private.h"
