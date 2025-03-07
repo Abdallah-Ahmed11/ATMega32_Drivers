@@ -24,6 +24,8 @@ This project demonstrates how to organize and implement AVR drivers in a modular
 ---
 
 ## Repository Structure
+
+```bash
 .
 ├── 1_MCAL
 │   ├── 1_DIO
@@ -42,5 +44,3 @@ This project demonstrates how to organize and implement AVR drivers in a modular
 │   ├── BIT_MATH.h
 │   └── STD_TYPES.h
 └── README.md
-
-
