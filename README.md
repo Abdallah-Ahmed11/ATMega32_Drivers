@@ -24,4 +24,23 @@ This project demonstrates how to organize and implement AVR drivers in a modular
 ---
 
 ## Repository Structure
+.
+├── 1_MCAL
+│   ├── 1_DIO
+│   ├── 2_EXTI
+│   ├── 3_GIE
+│   ├── 4_ADC
+│   ├── 5_TIMERS
+│   ├── 6_UART
+│   └── 7_SPI
+├── 2_HAL
+│   ├── KeyPad
+│   ├── LCD
+│   ├── LED
+│   └── SSD
+├── 3_LIB
+│   ├── BIT_MATH.h
+│   └── STD_TYPES.h
+└── README.md
+
 
